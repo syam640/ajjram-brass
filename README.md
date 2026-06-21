@@ -539,11 +539,6 @@ The platform is fully responsive across all devices:
 
 ## 📬 CONTACT
 
-**Ajjram Brass**
-- Email: hello@ajjrambrass.com
-- Phone: +91 98765 43210
-- Location: Jaipur, Rajasthan, India
-
 ---
 
 <p align="center">
